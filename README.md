@@ -1,3 +1,7 @@
+# PS4-esp32-O3601B
+This is based on aed's PS4-esp32 library with extra examples.
+His library can be found here: https://github.com/aed3/PS4-esp32
+
 # PS4-esp32
 Use a PS4 controller with an ESP32
 
